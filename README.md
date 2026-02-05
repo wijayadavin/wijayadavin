@@ -8,6 +8,8 @@
 - Build reliable systems: **FastAPI/Flask/Node**, Postgres/Redis, cloud deployments
 - Own delivery end-to-end: Architecture → Integration → Rollout → Debugging → QA
 
+### Tech Stack
+
 | Area | Stack |
 |---|---|
 | **AI / LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI%20(ChatGPT)-000000?style=flat-square) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-4B32C3?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-111111?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white) |
