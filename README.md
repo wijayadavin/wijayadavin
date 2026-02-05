@@ -4,7 +4,7 @@
 🚀 Built: scalable **APIs / SaaS / scrapers** from **pre-PMF → ~$10M revenue** teams
 
 ### What I do
-- Ship AI products to production from scratch to deployment: **RAG (lexical + vector)**, **LLM apps**, **embeddings**, **realtime voice**
+- Ship tech products to production from scratch to deployment: **LLM-based apps**, **Web/Desktop App**, **API**
 - Build reliable systems: **FastAPI/Flask/Node**, Postgres/Redis, cloud deployments
 - Own delivery end-to-end: Architecture → Integration → Rollout → Debugging → QA
 
