@@ -1,6 +1,9 @@
 ## Hi there 👋
+
 📍 **I'm based in Italy / Bali (But work remotely)**  
-🤖 **Full-stack AI Engineer**: RAG, realtime voice, agentic workflows, Web/Desktop App
+
+🤖 **Full-stack AI Engineer**: Gen-AI with RAG, Realtime Voice, Agentic Workflows, Web/Desktop App
+
 🚀 Built: scalable products from **pre-PMF startup → ~$10M revenue**
 
 ### What I do
