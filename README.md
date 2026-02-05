@@ -1,7 +1,7 @@
 ## Hi there 👋
-📍 **Italy / Bali (Remote)**  
-🤖 **Full-stack AI Delivery Engineer**: RAG, realtime voice, agentic workflows  
-🚀 Built: scalable **APIs / SaaS / scrapers** from **pre-PMF → ~$10M revenue** teams
+📍 **I'm based in Italy / Bali (But work remotely)**  
+🤖 **Full-stack AI Engineer**: RAG, realtime voice, agentic workflows, Web/Desktop App
+🚀 Built: scalable products from **pre-PMF startup → ~$10M revenue**
 
 ### What I do
 - Ship tech products to production from scratch to deployment: **LLM-based apps**, **Web/Desktop App**, **API**
