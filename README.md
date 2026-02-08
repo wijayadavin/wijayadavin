@@ -2,9 +2,9 @@
 
 📍 **I'm based in Italy / Bali (But work remotely)**  
 
-🤖 **Full-stack AI Engineer**: Gen-AI with RAG, Realtime Voice, Agentic Workflows, Web/Desktop App
+🤖 **Full-stack Backend/AI Engineer**: Gen-AI with RAG, Realtime Voice, Agentic Workflows, Web/Desktop App
 
-🚀 Built: scalable products from **pre-PMF startup → ~$10M revenue**
+🚀 Built: scalable products from **pre-PMF startup → ~$10M revenue**. Not only integrate to API, I can develop API add a full working data pipeline too.
 
 ### What I do
 - Ship tech products to production from scratch to deployment: **LLM-based apps**, **Web/Desktop App**, **API**
