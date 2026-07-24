@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📍 **I'm based in Italy / Bali (But work remotely)**  
+📍 **I'm based in Bali (But work remotely)**  
 
 🤖 **Full-stack Backend/AI Engineer**: Gen-AI with RAG, Realtime Voice, Agentic Workflows, Web/Desktop App
 
